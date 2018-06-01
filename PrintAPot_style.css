@@ -1,0 +1,22 @@
+body{
+  margin-top:60px;
+}
+.jumbotron{
+  background-color:#99ffda;
+}
+.well{
+  background-color:#66ffc7;
+}
+.valueStatement{
+  background-color:#e6b565;
+  border:black, 2px;
+  font-family: 'Patua One', cursive;
+}
+h1{
+  font-family: 'Berkshire Swash', cursive;
+  color:#6e4a12;
+}
+#subtitle{
+  font-family: 'Berkshire Swash', cursive;
+  color:#6e4a12;
+}
